@@ -1,2 +1,2 @@
 # DWControls
-quickly create UI with code
+create controls with code quickly
